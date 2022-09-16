@@ -45,7 +45,31 @@
 
 - **More Results:**
 
-We offer more results here: https://pan.baidu.com/s/1SoaarTYejTMNT_V4agGDWg ( Extraction code : j2e3 )
+We offer more results here: https://drive.google.com/file/d/1vT0nqEVVByBW1QltYVX_mIYCcZ4wXsQD/view?usp=sharing
+
+## Apply a pre-trained model
+
+- A face photo↦sketch model pre-trained on dataset [FS2K](https://github.com/DengPingFan/FS2K)
+- The [pre-trained model](https://drive.google.com/file/d/1vT0nqEVVByBW1QltYVX_mIYCcZ4wXsQD/view?usp=sharing) need to be save at `./checkpoint`
+- Then you can test the model
+
+### Train/Test
+
+- Download the dataset [FS2K](https://github.com/DengPingFan/FS2K) here
+
+- Train a model
+
+  ```
+  python train.py --root your_root_path_train
+  ```
+
+- Test the model: please prepare your test data's depth maps using 3DDFA methods
+
+  ```
+  python test.py --data_dir your_data_path_test --depth_dir your_depth_path_test 
+  ```
+
+- If you want to train on your own data, please first align your pictures and prepare your data's depth maps according to tutorial in preprocessing steps.
 
 ## Citation
 
