@@ -15,33 +15,33 @@
 
 - **Comparison with SOTAs on the FS2K dataset:**
 
-![1663311368105](C:\Users\29616\AppData\Roaming\Typora\typora-user-images\1663311368105.png)
+![localFace1](https://github.com/AiArt-HDU/DISC/blob/main/images/localFace1.jpg)
 
-![1663311033413](C:\Users\29616\AppData\Roaming\Typora\typora-user-images\1663311033413.png)
+![localFace2](https://github.com/AiArt-HDU/DISC/blob/main/images/localFace2.jpg)
 
-![1663299824768](C:\Users\29616\AppData\Roaming\Typora\typora-user-images\1663299824768.png)
+![localFace3](https://github.com/AiArt-HDU/DISC/blob/main/images/localFace3.jpg)
 
-**(a)**Photo   **(b)**Depth   **(c)**Ours   **(d)**Pix2PixHD   **(e)**FSGAN   **(f)**SCA-GAN   **(g)**GT   **(h)**Pix2Pix   **(i)**MDAL   **(j)**CycleGAN   **(k)**GENRE
+(a)Photo   (b)Depth   (c)Ours   (d)Pix2PixHD   (e)FSGAN   (f)SCA-GAN   (g)GT   (h)Pix2Pix   (i)MDAL   (j)CycleGAN   (k)GENRE
 
 - **Performance on faces in-the-wild:**
 
-![1663311795153](C:\Users\29616\AppData\Roaming\Typora\typora-user-images\1663311795153.png)
+![wildFace1](https://github.com/AiArt-HDU/DISC/blob/main/images/wildFace1.jpg)
 
-![1663311928092](C:\Users\29616\AppData\Roaming\Typora\typora-user-images\1663311928092.png)
+![wildFace2](https://github.com/AiArt-HDU/DISC/blob/main/images/wildFace2.jpg)
 
-![1663311845852](C:\Users\29616\AppData\Roaming\Typora\typora-user-images\1663311845852.png)
+![wildFace3](https://github.com/AiArt-HDU/DISC/blob/main/images/wildFace3.jpg)
 
-**(a)**Photo   **(b)**Ours(Style1)   **(c)**Ours(Style2)   **(d)**Ours(Style3)   **(e)**GENRE   **(f)**Pix2Pix   **(g)**CycleGAN   **(h)**SCA-GAN
+(a)Photo   (b)Ours(Style1)   (c)Ours(Style2)   (d)Ours(Style3)   (e)GENRE   (f)Pix2Pix   (g)CycleGAN   (h)SCA-GAN
 
 -  **Performance of our DISC model on natural images:**
 
-![](I:\D盘\zyf\2020研究生\毕业论文\2021阶段性工作总结\结果图汇总\scene\scene3\5_1.png)
+![cat](https://github.com/AiArt-HDU/DISC/blob/main/images/cat.png)
 
-![](I:\D盘\zyf\2020研究生\毕业论文\2021阶段性工作总结\结果图汇总\scene\buildings\4_2.png)
+![building1](https://github.com/AiArt-HDU/DISC/blob/main/images/building1.png)
 
-![](I:\D盘\zyf\2020研究生\毕业论文\2021阶段性工作总结\结果图汇总\scene\buildings\3_2.png)
+![building2](https://github.com/AiArt-HDU/DISC/blob/main/images/building2.png)
 
-**(a)**Photo   **(b)**Depth   **(c)**Ours(Style1)   **(d)**Ours(Style2)   **(e)**Ours(Style3)
+(a)Photo   (b)Depth   (c)Ours(Style1)   (d)Ours(Style2)   (e)Ours(Style3)
 
 - **More Results:**
 
