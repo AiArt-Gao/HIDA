@@ -77,13 +77,13 @@ We offer more results here: https://drive.google.com/file/d/1vT0nqEVVByBW1QltYVX
 
 ## Apply a pre-trained model
 
-- A face photo↦sketch model pre-trained on dataset [FS2K](https://github.com/DengPingFan/FS2K)
+- A face photo↦sketch model pre-trained on dataset [FS2K](https://drive.google.com/file/d/1ATeDl-Vu2Ztq3i0jeu9Qyap0MyOdg05v/view?usp=sharing)
 - The [pre-trained model](https://drive.google.com/file/d/1q9S7nHaweH8OMmfVZ9Zv4FcHNHjfBsDy/view?usp=sharing) need to be save at `./checkpoint`
 - Then you can test the model
 
 ### Train/Test
 
-- Download the dataset [FS2K](https://github.com/DengPingFan/FS2K) here
+- Download the dataset [FS2K](https://drive.google.com/file/d/1ATeDl-Vu2Ztq3i0jeu9Qyap0MyOdg05v/view?usp=sharing) here
 
 - Train a model
 
