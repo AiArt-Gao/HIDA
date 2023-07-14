@@ -2,7 +2,7 @@
 
 ## Introduction
 
-- DISC is an open  source, PyTorch-based method for **facial sketch synthesis(FSS)**.
+- DISC is a PyTorch-based method for **facial sketch synthesis(FSS)**.
 
 
 -  For more information about efficientSegmentation, please read the following paper:  "Depth-Informed and Style-Controllable Facial Sketch Synthesis via Dynamic Adaptation" .
