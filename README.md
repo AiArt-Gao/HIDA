@@ -7,6 +7,8 @@ Facial sketch synthesis (FSS) aims to generate a vivid sketch portrait from a gi
 
 Human-Inspired Facial Sketch Synthesis with Dynamic Adaptation, ICCV 2023 accepted.
 
+![localFace1](https://github.com/AiArt-HDU/DISC/blob/main/images/fig_pipeline.jpg)
+
 ## Sample Results
 
 - **Comparison with SOTAs on the FS2K dataset:**
