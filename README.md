@@ -1,15 +1,11 @@
-# DISC
+# HIDA: Human-Inspired Facial Sketch Synthesis with Dynamic Adaptation
 
-## Introduction
+## Abstract
+Facial sketch synthesis (FSS) aims to generate a vivid sketch portrait from a given facial photo.    Existing FSS methods merely rely on 2D representations of facial semantic or appearance. However, professional human artists usually use outlines or shadings to covey 3D geometry. Thus facial 3D geometry (e.g. depth map) is extremely important for FSS. Besides, different artists may use diverse drawing techniques and create multiple styles of sketches; but the style is globally consistent in a sketch. Inspired by such observations, in this paper, we propose a novel \textit{Human-Inspired Dynamic Adaptation} (HIDA) method. Specially, we propose to dynamically modulate neuron activations based on a joint consideration of both facial 3D geometry and 2D appearance, as well as globally consistent style control. Besides, we use deformable convolutions at coarse-scales to align deep features, for generating abstract and distinct outlines. Experiments show that HIDA can generate high-quality sketches in multiple styles, and significantly outperforms previous methods, over a large range of challenging faces. Besides, HIDA allows precise style control of the synthesized sketch, and generalizes well to natural scenes. Our code will be released after peer review. 
 
-- DISC is a PyTorch-based method for **facial sketch synthesis(FSS)**.
+## Paper Information
 
-
--  For more information about efficientSegmentation, please read the following paper:  "Depth-Informed and Style-Controllable Facial Sketch Synthesis via Dynamic Adaptation" .
-
-
-- This project generates a quality and vivid sketch portrait from a given photo using a GAN-based model.  Besides, our method allows precise style control of the synthesised sketch. Please also cite this paper if you are using the method for your research! 
-
+Human-Inspired Facial Sketch Synthesis with Dynamic Adaptation, ICCV 2023 accepted.
 
 ## Sample Results
 
