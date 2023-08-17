@@ -9,6 +9,8 @@ Human-Inspired Facial Sketch Synthesis with Dynamic Adaptation, ICCV 2023 accept
 
 ![localFace1](https://github.com/AiArt-HDU/DISC/blob/main/images/fig_pipeline.jpg)
 
+![localFace1](https://github.com/AiArt-HDU/DISC/blob/main/images/fig_ida.jpg)
+
 ## Sample Results
 
 - **Comparison with SOTAs on the FS2K dataset:**
@@ -40,6 +42,9 @@ Human-Inspired Facial Sketch Synthesis with Dynamic Adaptation, ICCV 2023 accept
 ![building2](https://github.com/AiArt-HDU/DISC/blob/main/images/building2.png)
 
 (a)Photo   (b)Depth   (c)Ours(Style1)   (d)Ours(Style2)   (e)Ours(Style3)
+
+- **Extension to Pen-drwings and Oilpaintings**
+![localFace1](https://github.com/AiArt-HDU/DISC/blob/main/images/fig_penoil.jpg)
 
 - **More Results:**
 
