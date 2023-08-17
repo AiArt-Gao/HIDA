@@ -5,7 +5,23 @@ Facial sketch synthesis (FSS) aims to generate a vivid sketch portrait from a gi
 
 ## Paper Information
 
-Human-Inspired Facial Sketch Synthesis with Dynamic Adaptation, ICCV 2023 accepted.
+Fei Gao, Yifan Zhu, Chang Jiang, Nannan Wang, Human-Inspired Facial Sketch Synthesis with Dynamic Adaptation, Proceedings of the International Conference on Computer Vision (ICCV), accepted, 2023.
+
+## Citation
+
+ If you use this code for your research, please cite our paper. 
+
+```
+@inproceedings{jiang2023masked,
+  title={Human-Inspired Facial Sketch Synthesis with Dynamic Adaptation},
+  author={Gao, Fei and Zhu, Yifan and Jiang, Chang and Wang, Nannan},
+  booktitle={Proceedings of the International Conference on Computer Vision (ICCV)},
+  pages={},
+  year={2023}
+}
+```
+
+## Pipeline
 
 ![localFace1](https://github.com/AiArt-HDU/DISC/blob/main/images/fig_pipeline.jpg)
 
