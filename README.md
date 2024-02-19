@@ -12,11 +12,11 @@ Fei Gao, Yifan Zhu, Chang Jiang, Nannan Wang, Human-Inspired Facial Sketch Synth
  If you use this code for your research, please cite our paper. 
 
 ```
-@inproceedings{jiang2023masked,
+@inproceedings{gao2023human,
   title={Human-Inspired Facial Sketch Synthesis with Dynamic Adaptation},
   author={Gao, Fei and Zhu, Yifan and Jiang, Chang and Wang, Nannan},
-  booktitle={Proceedings of the International Conference on Computer Vision (ICCV)},
-  pages={},
+  booktitle={Proceedings of the IEEE/CVF International Conference on Computer Vision},
+  pages={7237--7247},
   year={2023}
 }
 ```
